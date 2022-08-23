@@ -1,6 +1,6 @@
 # UTFPR-TATTCLASS40 - Federal University of Technology - Paraná - 40 Tattoo Classes Dataset
 
-##Description##
+## Description
 
 The dataset is composed by 40 classes, with 100 images for each class, as follows: angel, bird, butterfly, car, cat, clock, clown, crucifix, demon, dog, dragon, eagle, eye, fish, flower, guitar, heart, horse, Jesus, joker, knife, leprechaun, lion, man face, octopus, owl, scorpion, skull, snake, spider, spider web, star, taz, tiger, weapon, wings, wizard, woman face, yin-yang and zombie.
 
