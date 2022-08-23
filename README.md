@@ -2,7 +2,7 @@
 
 ## Description
 
-The dataset is composed by 40 classes, with 100 images for each class, as follows: angel, bird, butterfly, car, cat, clock, clown, crucifix, demon, dog, dragon, eagle, eye, fish, flower, guitar, heart, horse, Jesus, joker, knife, leprechaun, lion, man face, octopus, owl, scorpion, skull, snake, spider, spider web, star, taz, tiger, weapon, wings, wizard, woman face, yin-yang and zombie.
+The dataset is composed by 40 classes, with 100 images for each class, as follows: **angel, bird, butterfly, car, cat, clock, clown, crucifix, demon, dog, dragon, eagle, eye, fish, flower, guitar, heart, horse, Jesus, joker, knife, leprechaun, lion, man face, octopus, owl, scorpion, skull, snake, spider, spider web, star, taz, tiger, weapon, wings, wizard, woman face, yin-yang and zombie**.
 
 These classes were chosen according two main criteria: similarity between classes and its relevance for law enforcement applications. For instance, angel, clown, demon, elf, Jesus, joker, man face, wizard, woman face and zombie have common features of a human face. Classes such as bird, butterfly, dragon, eagle, owl and wings share, also, similar features, like wings.
 
