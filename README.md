@@ -14,4 +14,4 @@ Some classes have a special mean to criminals, bringing a kind of encrypted comm
 
 ## Acknowledgments
 
-H.S.Lopes thanks CNPq for the research grant number 440977/2015-0. All authors thank NVIDIA for the donation of the GPUs used in this work.
+H. S. Lopes would like to thank to CNPq for the research grant 311785/2019-0, and Fundação Araucaria for the research grant PRONEX 042/2018. Both authors thank NVIDIA for the donation of the GPUs used in this work.
