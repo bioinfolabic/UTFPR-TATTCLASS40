@@ -8,15 +8,23 @@ These classes were chosen according two main criteria: similarity between classe
 
 Some classes have a special mean to criminals, bringing a kind of encrypted communication, as these messages can hide the history of a crime or reveal a life of misdeeds. The following tattoos classes have special criminal meaning for Brazil: demon, wizard, scorpion, ying-yang, numbers, leprechaun, Jesus, clown, spider, Taz, and octopus.
 
-Markup : * Demon: This is a tattoo usually done by someone who takes pleasure in killing. It is common to find the design of the devil in gunmen and hired killers, dangerous bandits who turn the act of taking the lives of other people (especially their rivals) into a craft.
-    * Wizard: Many inmates with a history of robberies on buses and commercial establishments have a wizard or a witch tattooed on their body. Some of these “criminal wizards” are specialists in weapons and explosives, with their favorite targets being stores with safes and ATMs.
-    * Scorpion, Yin-yang and Numbers: ``The design of a scorpion was the first tattoo used inside and outside S{\~a}o Paulo prisons to identify members of the \gls{pcc}, a well-known criminal faction originating in the state of S{\~a}o Paulo. Likewise, the yin-yang tattooed on the body also indicates members of this organization. A tattoo with equivalent meaning of the  \gls{pcc} members is the number 1533 - a reference to the 15th letter of the alphabet (P) and the third one (C).
-    * Leprechaun: Criminals who tattoo a leprechaun on their body have a history of trouble, usually associated with drug abuse and trafficking. In the imprisoned population, the pixie tattoo also suggests a drug treatment activity in the past.
-    * Jesus: On the arms, legs and chest, it is indicative of larceny (robbery followed by death). If located on the back, it could be a request for protection from the criminal.
-    * Clown: If the tattoo has black tears, it means friends were killed by rivals. If the tears are red, the comrades were killed by the police. And if the clown cartoon is accompanied by skulls, it is almost certain that it is a police murderer. The number of skulls counts how many police officers were killed by the tattooed person.
-    * Spider: In the criminal world, having a spider tattooed on the body means that one is a bandit who acts in a group.
-    * Taz: The popular cartoon Taz is the best representation for criminals indicted for theft and robbery, and who act in a group.
-    * Octopus: It is very common to find this animal tattooed on people accused of theft and burglary – usually bandits skilled in escaping.
+* Demon: This is a tattoo usually done by someone who takes pleasure in killing. It is common to find the design of the devil in gunmen and hired killers, dangerous bandits who turn the act of taking the lives of other people (especially their rivals) into a craft.
+
+* Wizard: Many inmates with a history of robberies on buses and commercial establishments have a wizard or a witch tattooed on their body. Some of these “criminal wizards” are specialists in weapons and explosives, with their favorite targets being stores with safes and ATMs.
+
+* Scorpion, Yin-yang and Numbers: The design of a scorpion was the first tattoo used inside and outside São Paulo prisons to identify members of the PCC, a well-known criminal faction originating in the state of S{\~a}o Paulo. Likewise, the yin-yang tattooed on the body also indicates members of this organization. A tattoo with equivalent meaning of the  \gls{pcc} members is the number 1533 - a reference to the 15th letter of the alphabet (P) and the third one (C).
+
+* Leprechaun: Criminals who tattoo a leprechaun on their body have a history of trouble, usually associated with drug abuse and trafficking. In the imprisoned population, the pixie tattoo also suggests a drug treatment activity in the past.
+
+* Jesus: On the arms, legs and chest, it is indicative of larceny (robbery followed by death). If located on the back, it could be a request for protection from the criminal.
+
+* Clown: If the tattoo has black tears, it means friends were killed by rivals. If the tears are red, the comrades were killed by the police. And if the clown cartoon is accompanied by skulls, it is almost certain that it is a police murderer. The number of skulls counts how many police officers were killed by the tattooed person.
+
+* Spider: In the criminal world, having a spider tattooed on the body means that one is a bandit who acts in a group.
+
+* Taz: The popular cartoon Taz is the best representation for criminals indicted for theft and robbery, and who act in a group.
+
+* Octopus: It is very common to find this animal tattooed on people accused of theft and burglary – usually bandits skilled in escaping.
 
 ## Classes Sample
 
