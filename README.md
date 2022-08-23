@@ -11,3 +11,7 @@ Some classes have a special mean to criminals, bringing a kind of encrypted comm
 ## Classes Sample
 
 ![Classes Sample](ClassesSample.png)
+
+## Acknowledgments
+
+H.S.Lopes thanks CNPq for the research grant number 440977/2015-0. All authors thank NVIDIA for the donation of the GPUs used in this work.
