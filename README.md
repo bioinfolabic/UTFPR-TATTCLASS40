@@ -33,3 +33,26 @@ Some classes have a special mean to criminals, bringing a kind of encrypted comm
 ## Acknowledgments
 
 H. S. Lopes would like to thank to CNPq for the research grant 311785/2019-0, and Fundação Araucaria for the research grant PRONEX 042/2018. Both authors thank NVIDIA for the donation of the GPUs used in this work.
+
+## Related Papers
+
+If you use of the UTFPR-TATTCLASS40 dataset, please cite the following reference in any publications:
+
+
+R. Tchalski and H. S. Lopes, "A Transfer Learning Approach for the Tattoo Classification Problem," in LA-CCI, 2022.
+
+```
+@ARTICLE{9222020,
+  author={Tchalski, Rodrigo and Lopes, Heitor Silvério},
+  journal={LA-CCI}, 
+  title={A Transfer Learning Approach for the Tattoo Classification Problem}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={},
+  doi={}}
+```
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
+
