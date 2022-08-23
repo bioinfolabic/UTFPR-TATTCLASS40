@@ -12,7 +12,7 @@ Some classes have a special mean to criminals, bringing a kind of encrypted comm
 
 * Wizard: Many inmates with a history of robberies on buses and commercial establishments have a wizard or a witch tattooed on their body. Some of these “criminal wizards” are specialists in weapons and explosives, with their favorite targets being stores with safes and ATMs.
 
-* Scorpion, Yin-yang and Numbers: The design of a scorpion was the first tattoo used inside and outside São Paulo prisons to identify members of the PCC, a well-known criminal faction originating in the state of S{\~a}o Paulo. Likewise, the yin-yang tattooed on the body also indicates members of this organization. A tattoo with equivalent meaning of the  \gls{pcc} members is the number 1533 - a reference to the 15th letter of the alphabet (P) and the third one (C).
+* Scorpion, Yin-yang and Numbers: The design of a scorpion was the first tattoo used inside and outside São Paulo prisons to identify members of the PCC, a well-known criminal faction originating in the state of São Paulo. Likewise, the yin-yang tattooed on the body also indicates members of this organization. A tattoo with equivalent meaning of the PCC members is the number 1533 - a reference to the 15th letter of the alphabet (P) and the third one (C).
 
 * Leprechaun: Criminals who tattoo a leprechaun on their body have a history of trouble, usually associated with drug abuse and trafficking. In the imprisoned population, the pixie tattoo also suggests a drug treatment activity in the past.
 
