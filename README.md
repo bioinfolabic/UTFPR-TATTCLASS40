@@ -8,3 +8,6 @@ These classes were chosen according two main criteria: similarity between classe
 
 Some classes have a special mean to criminals, bringing a kind of encrypted communication, as these messages can hide the history of a crime or reveal a life of misdeeds. The following tattoos classes have special criminal meaning for Brazil: demon, wizard, scorpion, ying-yang, numbers, leprechaun, Jesus, clown, spider, Taz, and octopus.
 
+## Classes Sample
+
+![Classes Sample](ClassesSample.png)
