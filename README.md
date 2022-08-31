@@ -41,7 +41,7 @@ H. S. Lopes would like to thank to CNPq for the research grant 311785/2019-0, an
 If you use of the UTFPR-TATTCLASS40 dataset, please cite the following reference in any publications:
 
 
-R. Tchalski and H. S. Lopes, "A Transfer Learning Approach for the Tattoo Classification Problem," Awaiting Publication, 2022.
+R. Tchalski and H. S. Lopes, "A Transfer Learning Approach for the Tattoo Classification Problem," **Awaiting Publication**, 2022.
 
 ```
 @ARTICLE{9222020,
